@@ -2,11 +2,11 @@ document.addEventListener("DOMContentLoaded", function () {
     const shampooImage = document.querySelector(".logo-image");
     const animateButton = document.getElementById("animate-button");
     const participants = [
-        "Keiser",
-        "Kéké",
-        "Menezes",
-        "Biscoito",
-        "Fi de Keila",
+        "Keiser Menezes",
+        "Evandro Galdino",
+        "Caique Santos",
+        "Debora França",
+        
     ];
     let currentIndex = 0;
     let animationId;
